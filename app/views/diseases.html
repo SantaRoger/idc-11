@@ -1,0 +1,56 @@
+<div class="row">
+	<div class="col-12">
+		<div class="card">
+			
+			<div class="card-header">
+				<i class="fas fa-dna mr-2"></i>Diseases
+			</div>
+
+			<div class="card-body">
+				<div class="row">
+					<div class="col-4">
+						<d3-sunburst></d3-sunburst>
+					</div>
+
+					<div class="col-8">
+						<p ng-if="!idcNodeData.data.name">
+							Please choose a node in the chart.
+						</p>
+						<table class="table table-striped" ng-if="idcNodeData.data.name">
+							<thead>
+								<tr>
+									<th>Disease</th>
+									<th>Parent</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>
+										{{idcNodeData.data.name}}
+									</td>
+									<td>
+										{{idcNodeData.parent.data.name}}
+									</td>
+								</tr>
+								<tr>
+									<td colspan="4">
+										<strong>Children: {{idcNodeData.children.length}}</strong>
+									</td>
+								</tr>
+
+								<tr ng-repeat="(key,value) in idcNodeData.children">
+									<td colspan="1">
+										{{key+1}}
+									</td>
+									<td colspan="3">
+										{{value.data.name}}
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

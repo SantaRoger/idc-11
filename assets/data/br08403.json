@@ -1,0 +1,733 @@
+{
+	"name":"br08403",
+	"children":[
+	{
+		"name":"01 Certain infectious or parasitic diseases",
+		"children":[
+		{
+			"name":"Gastroenteritis or colitis of infectious origin",
+			"children":[
+			{
+				"name":"Bacterial intestinal infections",
+				"children":[
+				{
+					"name":"1A00  Cholera",
+					"children":[
+					{
+						"name":"H00110  Cholera"
+					}
+					]
+				},
+				{
+					"name":"1A01  Intestinal infection due to other Vibrio",
+					"children":[
+					{
+						"name":"H00307  Vibrio parahaemolyticus infection"
+					},
+					{
+						"name":"H00308  Vibrio vulnificus infection"
+					}
+					]
+				},
+				{
+					"name":"1A02  Intestinal infections due to Shigella",
+					"children":[
+					{
+						"name":"H00299  Shigellosis"
+					}
+					]
+				},
+				{
+					"name":"1A03  Intestinal infections due to Escherichia coli",
+					"children":[
+					{
+						"name":"H00278  Enteropathogenic Escherichia coli (EPEC) infection"
+					},
+					{
+						"name":"H00280  Enterotoxigenic Escherichia coli (ETEC) infection"
+					},
+					{
+						"name":"H01311  Enteroinvasive Escherichia coli (EIEC) infection"
+					},
+					{
+						"name":"H00277  Enterohemorrhagic Escherichia coli (EHEC) infection"
+					},
+					{
+						"name":"H01312  Enteroaggregative Escherichia coli (EAEC) infection"
+					}
+					]
+				},
+				{
+					"name":"1A04  Enterocolitis due to Clostridium difficile",
+					"children":[
+					{
+						"name":"H00338  Pseudomembranous colitis"
+					}
+					]
+				},
+				{
+					"name":"1A05  Intestinal infections due to Yersinia enterocolitica",
+					"children":[
+					{
+						"name":"H00298  Yersiniosis"
+					}
+					]
+				},
+				{
+					"name":"1A06  Gastroenteritis due to Campylobacter",
+					"children":[
+					{
+						"name":"H00321  Campylobacter infection"
+					}
+					]
+				},
+				{
+					"name":"1A07  Typhoid fever",
+					"children":[
+					{
+						"name":"H00111  Typhoid fever"
+					}
+					]
+				},
+				{
+					"name":"1A08  Paratyphoid Fever",
+					"children":[
+					{
+						"name":"H00112  Paratyphoid fever"
+					}
+					]
+				},
+				{
+					"name":"1A09  Infections due to other Salmonella",
+					"children":[
+					{
+						"name":"H00113  Salmonellosis"
+					}
+					]
+				},
+				{
+					"name":"1A0Y  Other specified bacterial intestinal infections",
+					"children":[
+					{
+						"name":"H01454  Colonic spirochetosis"
+					}
+					]
+				},
+				{
+					"name":"1A0Z  Bacterial intestinal infections, unspecified"
+				}
+				]
+			},
+			{
+				"name":"Bacterial foodborne intoxications",
+				"children":[
+				{
+					"name":"1A10  Foodborne staphylococcal intoxication",
+					"children":[
+					{
+						"name":"H01175  Staphylococcal infection"
+					}
+					]
+				},
+				{
+					"name":"1A11  Botulism",
+					"children":[
+					{
+						"name":"H00339  Botulism"
+					}
+					]
+				},
+				{
+					"name":"1A12  Foodborne Clostridium perfringens intoxication",
+					"children":[
+					{
+						"name":"H00335  Foodborne Clostridium perfringens intoxication"
+					}
+					]
+				},
+				{
+					"name":"1A13  Foodborne Bacillus cereus intoxication",
+					"children":[
+					{
+						"name":"H00329  Foodborne Bacillus cereus intoxication"
+					}
+					]
+				},
+				{
+					"name":"1A1Y  Other specified bacterial foodborne intoxications",
+					"children":[
+					{
+						"name":"H00300  Enterobacter infection"
+					}
+					]
+				},
+				{
+					"name":"1A1Z  Bacterial foodborne intoxications, unspecified"
+				}
+				]
+			},
+			{
+				"name":"Viral intestinal infections",
+				"children":[
+				{
+					"name":"1A20  Enteritis due to Adenovirus"
+				},
+				{
+					"name":"1A21  Gastroenteritis due to Astrovirus"
+				},
+				{
+					"name":"1A22  Gastroenteritis due to Rotavirus",
+					"children":[
+					{
+						"name":"H00975  Rotaviral enteritis"
+					}
+					]
+				},
+				{
+					"name":"1A23  Enteritis due to Norovirus",
+					"children":[
+					{
+						"name":"H01323  Acute gastroenteropathy due to Norwalk agent"
+					}
+					]
+				},
+				{
+					"name":"1A24  Intestinal infections due to Cytomegalovirus"
+				},
+				{
+					"name":"1A2Y  Other specified viral intestinal infections"
+				},
+				{
+					"name":"1A2Z  Viral intestinal infections, unspecified"
+				}
+				]
+			},
+			{
+				"name":"Protozoal intestinal infections",
+				"children":[
+				{
+					"name":"1A30  Infections due to Balantidium coli",
+					"children":[
+					{
+						"name":"H01087  Balantidiasis"
+					}
+					]
+				},
+				{
+					"name":"1A31  Giardiasis",
+					"children":[
+					{
+						"name":"H00362  Giardiasis"
+					}
+					]
+				},
+				{
+					"name":"1A32  Cryptosporidiosis",
+					"children":[
+					{
+						"name":"H00356  Cryptosporidiosis"
+					}
+					]
+				},
+				{
+					"name":"1A33  Cystoisosporiasis",
+					"children":[
+					{
+						"name":"H02372  Cystoisosporiasis"
+					}
+					]
+				},
+				{
+					"name":"1A34  Sarcocystosis",
+					"children":[
+					{
+						"name":"H02373  Sarcocystosis"
+					}
+					]
+				},
+				{
+					"name":"1A35  Blastocystosis",
+					"children":[
+					{
+						"name":"H02374  Blastocystosis"
+					}
+					]
+				},
+				{
+					"name":"1A36  Amoebiasis",
+					"children":[
+					{
+						"name":"H00360  Amoebiasis"
+					}
+					]
+				},
+				{
+					"name":"1A3Y  Other specified protozoal intestinal infections"
+				},
+				{
+					"name":"1A3Z  Protozoal intestinal infections, unspecified"
+				}
+				]
+			},
+			{
+				"name":"1A40  Gastroenteritis or colitis without specification of infectious agent"
+			}
+			]
+		},
+		{
+			"name":"Predominantly sexually transmitted infections",
+			"children":[
+			{
+				"name":"Syphilis",
+				"children":[
+				{
+					"name":"1A60  Congenital syphilis",
+					"children":[
+					{
+						"name":"H00354  Syphilis"
+					}
+					]
+				},
+				{
+					"name":"1A61  Early syphilis",
+					"children":[
+					{
+						"name":"H00354  Syphilis"
+					}
+					]
+				},
+				{
+					"name":"1A62  Late syphilis",
+					"children":[
+					{
+						"name":"H00354  Syphilis"
+					}
+					]
+				},
+				{
+					"name":"1A63  Latent syphilis, unspecified as early or late"
+				},
+				{
+					"name":"1A6Z  Syphilis, unspecified"
+				}
+				]
+			},
+			{
+				"name":"Gonococcal infection",
+				"children":[
+				{
+					"name":"1A70  Gonococcal genitourinary infection",
+					"children":[
+					{
+						"name":"H00315  Gonococcal infection"
+					}
+					]
+				},
+				{
+					"name":"1A71  Gonococcal pelviperitonitis",
+					"children":[
+					{
+						"name":"H00315  Gonococcal infection"
+					}
+					]
+				},
+				{
+					"name":"1A72  Gonococcal infection of other sites",
+					"children":[
+					{
+						"name":"H00315  Gonococcal infection"
+					}
+					]
+				},
+				{
+					"name":"1A73  Disseminated gonococcal infection"
+				},
+				{
+					"name":"1A7Z  Gonococcal infection, unspecified"
+				}
+				]
+			},
+			{
+				"name":"Sexually transmissible infections due to chlamydia",
+				"children":[
+				{
+					"name":"1A80  Chlamydial lymphogranuloma",
+					"children":[
+					{
+						"name":"H00348  Lymphogranuloma venereum"
+					}
+					]
+				},
+				{
+					"name":"1A81  Non-ulcerative sexually transmitted chlamydial infection",
+					"children":[
+					{
+						"name":"H00347  Chlamydia infection"
+					}
+					]
+				},
+				{
+					"name":"1A8Y  Other specified sexually transmissible infections due to chlamydia"
+				},
+				{
+					"name":"1A8Z  Sexually transmissible infections due to chlamydia, unspecified"
+				}
+				]
+			},
+			{
+				"name":"1A90  Chancroid",
+				"children":[
+				{
+					"name":"H00305  Chancroid"
+				}
+				]
+			},
+			{
+				"name":"1A91  Granuloma inguinale",
+				"children":[
+				{
+					"name":"H01415  Donovanosis"
+				}
+				]
+			},
+			{
+				"name":"1A92  Trichomoniasis",
+				"children":[
+				{
+					"name":"H00812  Trichomoniasis"
+				}
+				]
+			},
+			{
+				"name":"1A93  Sexually transmissible infestations"
+			},
+			{
+				"name":"1A94  Anogenital herpes simplex infection",
+				"children":[
+				{
+					"name":"H00365  Herpes simplex virus infection"
+				}
+				]
+			},
+			{
+				"name":"1A95  Anogenital warts",
+				"children":[
+				{
+					"name":"H01418  Condyloma acuminatum"
+				}
+				]
+			},
+			{
+				"name":"1A9Y  Other specified predominantly sexually transmitted infections"
+			},
+			{
+				"name":"1A9Z  Predominantly sexually transmitted infections, unspecified"
+			}
+			]
+		},
+		{
+			"name":"Mycobacterial diseases",
+			"children":[
+			]
+		},
+		{
+			"name":"Certain staphylococcal or streptococcal diseases",
+			"children":[]
+		},
+		{
+			"name":"1G60  Certain other disorders of infectious origin"
+		},
+		{
+			"name":"Sequelae of infectious diseases",
+			"children":[
+			{
+				"name":"1G80  Sequelae of tuberculosis"
+			},
+			{
+				"name":"1G81  Sequelae of trachoma"
+			},
+			{
+				"name":"1G82  Sequelae of leprosy"
+			},
+			{
+				"name":"1G83  Sequelae of poliomyelitis"
+			},
+			{
+				"name":"1G84  Sequelae of viral encephalitis"
+			},
+			{
+				"name":"1G85  Sequelae of diphtheria"
+			},
+			{
+				"name":"1G8Y  Sequelae of other specified infectious diseases"
+			}
+			]
+		},
+		{
+			"name":"1H0Z  Infection, unspecified"
+		}
+		]
+	},
+	{
+		"name":"02 Neoplasms",
+		"children":[
+		{
+			"name":"Neoplasms of brain or central nervous system",
+			"children":[
+			{
+				"name":"2A0Z  Other and unspecified neoplasms of brain or central nervous system"
+			}
+			]
+		},
+		{
+			"name":"Neoplasms of haematopoietic or lymphoid tissues",
+			"children":[
+			{
+				"name":"2A61  Acute leukaemias of ambiguous lineage"
+			},
+			{
+				"name":"2B32  Immunodeficiency-associated lymphoproliferative disorders"
+			},
+			{
+				"name":"2B33  Malignant haematopoietic neoplasms without further specification"
+			},
+			{
+				"name":"2B3Z  Neoplasms of haematopoietic or lymphoid tissues, unspecified"
+			}
+			]
+		},
+		{
+			"name":"Malignant neoplasms, except of lymphoid, haematopoietic, central nervous system or related tissues",
+			"children":[
+			]
+		},
+		{
+			"name":"In situ neoplasms, except of lymphoid, haematopoietic, central nervous system or related tissues",
+			"children":[
+			{
+				"name":"2E60  Carcinoma in situ of oral cavity, oesophagus or stomach"
+			},
+			{
+				"name":"2E61  Carcinoma in situ of other or unspecified digestive organs"
+			},
+			{
+				"name":"2E62  Carcinoma in situ of middle ear or respiratory system"
+			},
+			{
+				"name":"2E63  Melanoma in situ neoplasms"
+			},
+			{
+				"name":"2E64  Carcinoma in situ of skin"
+			},
+			{
+				"name":"2E65  Carcinoma in situ of breast"
+			},
+			{
+				"name":"2E66  Carcinoma in situ of cervix uteri"
+			},
+			{
+				"name":"2E67  Carcinoma in situ of other or unspecified genital organs"
+			},
+			{
+				"name":"2E68  Carcinoma in situ of bladder"
+			},
+			{
+				"name":"2E69  Carcinoma in situ of other or unspecified urinary organs"
+			},
+			{
+				"name":"2E6A  Carcinoma in situ of the eye or ocular adnexa"
+			},
+			{
+				"name":"2E6Y  Carcinoma in situ of other specified site"
+			},
+			{
+				"name":"2E6Z  Carcinoma in situ of unspecified site"
+			}
+			]
+		},
+		{
+			"name":"Benign neoplasms, except of lymphoid, haematopoietic, central nervous system or related tissues",
+			"children":[
+			{
+				"name":"2F5Y  Other specified benign neoplasms, except of lymphoid, haematopoietic, central nervous system or related tissues"
+			},
+			{
+				"name":"2F5Z  Benign neoplasms, except of lymphoid, haematopoietic, central nervous system or related tissues, unspecified"
+			}
+			]
+		},
+		{
+			"name":"Neoplasms of uncertain behaviour, except of lymphoid, haematopoietic, central nervous system or related tissues",
+			"children":[
+			{
+				"name":"2F70  Neoplasms of uncertain behaviour of oral cavity or digestive organs"
+			},
+			{
+				"name":"2F71  Neoplasms of uncertain behaviour of middle ear, respiratory or intrathoracic organs"
+			},
+			{
+				"name":"2F72  Neoplasms of uncertain behaviour of skin"
+			},
+			{
+				"name":"2F73  Neoplasms of uncertain behaviour of retroperitoneum"
+			},
+			{
+				"name":"2F74  Neoplasms of uncertain behaviour of peritoneum"
+			},
+			{
+				"name":"2F75  Neoplasms of uncertain behaviour of breast"
+			},
+			{
+				"name":"2F76  Neoplasms of uncertain behaviour of female genital organs"
+			},
+			{
+				"name":"2F77  Neoplasms of uncertain behaviour of male genital organs"
+			},
+			{
+				"name":"2F78  Neoplasms of uncertain behaviour of urinary organs"
+			},
+			{
+				"name":"2F79  Neoplasms of uncertain behaviour of eye or ocular adnexa"
+			},
+			{
+				"name":"2F7B  Neoplasms of uncertain behaviour of bone or articular cartilage"
+			},
+			{
+				"name":"2F7C  Neoplasms of uncertain behaviour of connective or other soft tissue"
+			},
+			{
+				"name":"2F7Y  Neoplasms of uncertain behaviour of other specified site"
+			},
+			{
+				"name":"2F7Z  Neoplasms of uncertain behaviour of unspecified site"
+			}
+			]
+		},
+		{
+			"name":"Neoplasms of unknown behaviour, except of lymphoid, haematopoietic, central nervous system or related tissues",
+			"children":[
+			{
+				"name":"2F90  Neoplasms of unknown behaviour of oral cavity or digestive organs"
+			},
+			{
+				"name":"2F91  Neoplasms of unknown behaviour of middle ear, respiratory or intrathoracic organs"
+			},
+			{
+				"name":"2F92  Neoplasms of unknown behaviour of skin"
+			},
+			{
+				"name":"2F93  Neoplasms of unknown behaviour of retroperitoneum"
+			},
+			{
+				"name":"2F94  Neoplasms of unknown behaviour of peritoneum"
+			},
+			{
+				"name":"2F95  Neoplasms of unknown behaviour of breast"
+			},
+			{
+				"name":"2F96  Neoplasms of unknown behaviour of female genital organs"
+			},
+			{
+				"name":"2F97  Neoplasms of unknown behaviour of male genital organs"
+			},
+			{
+				"name":"2F98  Neoplasms of unknown behaviour of urinary organs"
+			},
+			{
+				"name":"2F99  Neoplasms of unknown behaviour of eye or ocular adnexa"
+			},
+			{
+				"name":"2F9A  Neoplasms of unknown behaviour of endocrine glands"
+			},
+			{
+				"name":"2F9B  Neoplasms of unknown behaviour of bone or articular cartilage"
+			},
+			{
+				"name":"2F9C  Neoplasms of unknown behaviour of connective or other soft tissue"
+			},
+			{
+				"name":"2F9Y  Neoplasms of unknown behaviour of other specified site"
+			},
+			{
+				"name":"2F9Z  Neoplasms of unknown behaviour of unspecified site"
+			}
+			]
+		}
+		]
+	},
+	{
+		"name":"03 Diseases of the blood or blood-forming organs",
+		"children":[
+		{
+			"name":"Anaemias or other erythrocyte disorders",
+			"children":[
+			{
+				"name":"3A90  Anaemia of acute disease"
+			},
+			{
+				"name":"3A93  Acquired methaemoglobinaemia"
+			},
+			{
+				"name":"3A9Y  Other specified anaemias and erythrocyte disorders"
+			},
+			{
+				"name":"3A9Z  Anaemias or other erythrocyte disorders, unspecified"
+			}
+			]
+		},
+		{
+			"name":"Coagulation defects, purpura or other haemorrhagic or related conditions",
+			"children":[
+			{
+				"name":"3B60  Non-thrombocytopenic purpura"
+			},
+			{
+				"name":"3B65  Thrombotic microangiopathy, not elsewhere classified"
+			},
+			{
+				"name":"3B6Y  Other specified coagulation defects, purpura or other haemorrhagic or related conditions"
+			},
+			{
+				"name":"3B6Z  Coagulation defects, purpura or other haemorrhagic or related conditions, unspecified"
+			}
+			]
+		},
+		{
+			"name":"Diseases of spleen",
+			"children":[
+			{
+				"name":"3B80  Congenital disorders of spleen"
+			},
+			{
+				"name":"3B81  Acquired disorders of spleen"
+			},
+			{
+				"name":"3B8Z  Diseases of spleen, unspecified"
+			}
+			]
+		},
+		{
+			"name":"3C0Y  Other specified diseases of the blood or blood-forming organs"
+		},
+		{
+			"name":"3C0Z  Diseases of the blood or blood-forming organs, unspecified"
+		}
+		]
+	},
+	{
+		"name":"04 Diseases of the immune system",
+		"children":[
+		{
+			"name":"4B40  Diseases of thymus"
+		},
+		{
+			"name":"4B4Y  Other specified diseases of the immune system"
+		},
+		{
+			"name":"4B4Z  Diseases of the immune system, unspecified"
+		}
+		]
+	}
+	]
+}
+

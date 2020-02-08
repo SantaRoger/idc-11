@@ -1,0 +1,49 @@
+<!doctype html>
+
+<html lang='en' ng-app='advaitabio'>
+
+	<head>
+		<base href="/">
+		<meta charset="utf-8">
+		<title>AdvaitaBio: IDC-11 Assignment</title>
+		<meta name="description" content="IDC-11 Assignment">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/ >
+
+		<link rel="stylesheet" type='text/css', href="/assets/styles/style.css" />
+	</head>
+
+	<body>
+
+		<main-nav></main-nav>
+		
+		<div data-ng-view="" class="container">
+			Loading....
+		</div>
+
+		<div class="container fixed-bottom bg-dark p-3">
+			<footer class="">
+				<a class="text-muted float-right" href="#!/magic">
+					<i class="fas fa-magic mr-2"></i> Magic!
+				</a>
+			</footer>
+		</div>
+
+		<script type="text/javascript" src="node_modules/d3/dist/d3.js"></script>
+		<script type="text/javascript" src="node_modules/angular/angular.js"></script>
+		<script type="text/javascript" src="node_modules/angular-route/angular-route.js"></script>
+		<script type="text/javascript" src="node_modules/angular-sanitize/angular-sanitize.js"></script>
+		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+		<script type="text/javascript" src="node_modules/bootstrap/dist/js/bootstrap.bundle.js"></script>
+		
+		<!-- APP Files -->
+		<script type="text/javascript" src="app/app.js"></script>
+		<script type="text/javascript" src="app/config.js"></script>
+		<script type="text/javascript" src="app/factories/api.factory.js"></script>
+		<script type="text/javascript" src="app/controllers/controller.js"></script>
+		<script type="text/javascript" src="app/controllers/diseasesController.js"></script>
+		<script type="text/javascript" src="app/controllers/magicController.js"></script>
+		<script type="text/javascript" src="app/directives/main-nav/main.nav.directive.js"></script>
+		<script type="text/javascript" src="app/directives/d3/d3.sunburst.directive.js"></script>
+	</body>
+</html>

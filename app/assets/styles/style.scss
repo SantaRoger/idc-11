@@ -1,0 +1,86 @@
+@import "node_modules/bootstrap/scss/bootstrap";
+
+$fa-font-path: "/node_modules/@fortawesome/fontawesome-free/webfonts";
+@import "node_modules/@fortawesome/fontawesome-free/scss/fontawesome";
+@import "node_modules/@fortawesome/fontawesome-free/scss/brands";
+@import "node_modules/@fortawesome/fontawesome-free/scss/regular";
+@import "node_modules/@fortawesome/fontawesome-free/scss/solid";
+
+body {
+	background-color:#dedede;
+}
+.navbar-advaitabio {
+	background-color: #E3F2FD;
+}
+
+.card-body-dna{
+	background-image:url('http://localhost:3000/assets/images/Header-Background3.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	min-height:312px;
+	max-height:312px;
+}
+
+g.node {
+	cursor: pointer;
+}
+
+.magic-card{
+	background-image:url('http://localhost:3000/assets/images/cards.png');
+	height: 258px;
+	width: 184px;
+	background-repeat: no-repeat;
+	margin:0 auto;
+
+	&.back {
+		background-position: -1959px -983px;
+	}
+	
+	&.kd {
+		background-position: -2593px -58px;
+	}
+
+	&.kc {
+		background-position: -2593px -366px;
+	}
+
+	&.kh {
+		background-position: -2593px -675px;
+	}
+
+	&.ks {
+		background-position: -2593px -983px;
+	}
+
+	&.qd {
+		background-position: -2382px -58px;
+	}
+
+	&.qc {
+		background-position: -2382px -366px;
+	}
+
+	&.qh {
+		background-position: -2382px -675px;
+	}
+
+	&.qs {
+		background-position: -2382px -983px;
+	}
+
+	&.jd {
+		background-position: -2171px -58px;
+	}
+
+	&.jc {
+		background-position: -2171px -366px;
+	}
+
+	&.jh {
+		background-position: -2171px -675px;
+	}
+
+	&.js {
+		background-position: -2171px -983px;
+	}
+}

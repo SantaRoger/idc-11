@@ -1,0 +1,27 @@
+{
+  "name": "idc-11",
+  "version": "1.0.0",
+  "description": "Assignment for AdvaitaBio",
+  "main": "app/app.js",
+  "scripts": {
+    "prestart": "gulp sass:compile",
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roger Minton",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.1",
+    "angular": "^1.7.9",
+    "angular-route": "^1.7.9",
+    "angular-sanitize": "^1.7.9",
+    "bootstrap": "^4.4.1",
+    "d3": "^5.15.0",
+    "gulp": "^4.0.2",
+    "gulp-load-plugins": "^2.0.2",
+    "gulp-notify": "^3.2.0",
+    "gulp-sass": "^4.0.2",
+    "lite-server": "^2.5.4",
+    "serve": "^11.3.0"
+  }
+}
